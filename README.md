@@ -1,10 +1,10 @@
 # GDLauncher-Challenge
 The problem goes as follows:
 
-##Imaginary Scenario
+## Imaginary Scenario
 Welcome to Number Associative Mining and Trading Inc, or NAMT for short! Your duties are to make sure our turtles, working in difficult environments, are making correct associations, and stopping their operations when the tunnel is about to crumble. For that, our mathematicians finally found with absolute certainty the pattern the numbers mined follow before going too far.
 
-##The Problem
+## The Problem
 Here's how the mathematicians have written the solution, they did write it in understandable words for once:
 The first 100 numbers of the mine are always secure, but after that, the next number is only safe if it is the sum of 2 numbers in the previous 100. 
 
@@ -34,5 +34,5 @@ In that case, the number 127 will make the mine crumble, as there is no 2-number
 Attached to this message is your input for the challenge, good luck!
 Download Challenge Input Sample (/src/data/challenge_input.txt) 
 
-##Requirements
+## Requirements
 Find ways to make it as fast as possible, while also keeping it as efficient as possible.
